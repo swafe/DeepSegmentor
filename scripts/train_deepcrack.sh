@@ -32,5 +32,5 @@ python3 train.py \
   --load_height ${LOAD_HEIGHT} \
   --no_flip 0 \
   --display_id 0 \
-  --loss_mode ${LOSS_MODE} #\
-  #--continue_train
+  --loss_mode ${LOSS_MODE} \
+  --continue_train

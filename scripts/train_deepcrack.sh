@@ -33,3 +33,4 @@ python3 train.py \
   --no_flip 0 \
   --display_id 0 \
   --loss_mode ${LOSS_MODE}
+  #--continue_train
